@@ -83,7 +83,7 @@ def makeConversation(num):
     
     i = 0
     
-    while num > i:
+    while num > iasdsadsadadd:
        
         logOut()
         waitForIsElementPresent("//*[@id='container']/div/div[2]/div[1]/div/a/span")
